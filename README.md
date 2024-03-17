@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F72D1D&random=false&width=435&lines=Work+hard%2C+enjoy+today+and+meet+a+better+tomorrow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71550&multiline=true&random=false&width=620&lines=Work+hard%2C+enjoy+today+and+meet+a+better+tomorrow)](https://git.io/typing-svg)
