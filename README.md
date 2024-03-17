@@ -11,6 +11,7 @@
 </div>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Galeselee&theme=minimal" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=galeselee&theme=minimal" />
 </div>
+
 
